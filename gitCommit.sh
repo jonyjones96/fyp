@@ -3,7 +3,6 @@ git add enrollAdmin.js
 git add gitCommit.sh
 git add images.txt
 git add invoke.js
-git add node_modules
 git add package-lock.json
 git add query.js
 git add README.md
